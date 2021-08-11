@@ -48,7 +48,7 @@
     "CHANGELOG"
   ],
   "dependencies": {
-    "earcut": "2.2.2",
+    "earcut": "2.2.3",
     "howler": "^2.2.0",
     "jay-extend": "1.0.1",
     "minpubsub": "0.0.2"
